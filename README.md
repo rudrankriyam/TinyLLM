@@ -1,5 +1,4 @@
 # TinyLLM  
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/TinyLLM&type=Date)](https://star-history.com/#rudrankriyam/TinyLLM&Date)
 
 *A Framework for Training, Fine-Tuning, and Deploying Smaller LLMs on Custom Datasets*
 
@@ -193,3 +192,5 @@ We also acknowledge the use of external datasets:
 - [Fineweb](https://huggingface.co/datasets/HuggingFaceFW/fineweb)  
 - [SHL](https://www.shl-dataset.org/)  
 - [ExtraSensory](http://extrasensory.ucsd.edu/)  
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/TinyLLM&type=Date)](https://star-history.com/#rudrankriyam/TinyLLM&Date)
