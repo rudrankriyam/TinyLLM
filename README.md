@@ -1,4 +1,6 @@
 # TinyLLM  
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/TinyLLM&type=Date)](https://star-history.com/#rudrankriyam/TinyLLM&Date)
+
 *A Framework for Training, Fine-Tuning, and Deploying Smaller LLMs on Custom Datasets*
 
 - **Website**: [TinyLLM.org](https://tinyllm.org/)  
